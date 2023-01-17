@@ -9,19 +9,19 @@
 
 ## My works
 
+- 🎮 An adventure video game(⚠️WIP) developed in Unity in C#. This project is a big one for me, and is really time consuming I'm currently working on it but i'll keep the repository private.
+
 - 🪙 [A token economy web application](https://github.com/Malachite01/SAE-Trisomie21-HG) made for the association "[trisomie 21 Haute-Garonne](http://trisomie21-haute-garonne.org/)" to make a token economy application for autistic and trisomic children.
 
 - 📡 [A ftp-proxy](https://github.com/Malachite01/proxy-ftp) made in C. It is compatible with commands such as pwd, cd, ls, get, put, ...
 
 - 📲 [An electron/node.js application](https://github.com/Malachite01/appTransfertMobile)(⚠️WIP) made to automatically transfer all pictures from an android phone to a computer. It's goal is to simplify the process of making regular local saves.  
 
-- 🐠 [A small batch script](https://github.com/Malachite01/subnauticaSaves) to sync the saves of the game subnautica. This tool can be modified to sync folders.
-
 - 💻 [A web-documentary](https://webdoc-wejustwork.netlify.app/) about "crunch" in the video game industry, where I developed the website in its entirety. There is also a small video-game at the bottom of the website, that one of my team mates did, and where I did a lot of the assets.
 
-- 🏐 [A volleyball management web application](https://github.com/Malachite01/miniProjetphp) made principally in php.
+- 🐠 [A small batch script](https://github.com/Malachite01/subnauticaSaves) to sync the saves of the game subnautica. This tool can be modified to sync folders.
 
-- 🎮 An adventure video game(⚠️WIP) developed in Unity in C#. This project is a big one for me, and is really time consuming I'm currently working on it but i'll keep the repository private.
+- 🏐 [A volleyball management web application](https://github.com/Malachite01/miniProjetphp) made principally in php.
 
 - 🧮 [A sudoku solver](https://github.com/Malachite01/sudokuSolver) coded in ADA. It was one of my first complicated study project that I did during my first year of Bachelor.  
 
