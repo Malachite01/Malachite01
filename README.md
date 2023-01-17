@@ -13,7 +13,7 @@
 
 - 📡 [A ftp-proxy](https://github.com/Malachite01/proxy-ftp) made in C. It is compatible with commands such as pwd, cd, ls, get, put, ...
 
-- 📲 [An electron/node.js application](https://github.com/Malachite01/appTransfertMobile)(⚠️WIP) made to automatically transfer all pictures from android to a computer.
+- 📲 [An electron/node.js application](https://github.com/Malachite01/appTransfertMobile)(⚠️WIP) made to automatically transfer all pictures from an android phone to a computer. It's goal is to simplify the process of making regular local saves.  
 
 - 🐠 [A small batch script](https://github.com/Malachite01/subnauticaSaves) to sync the saves of the game subnautica. This tool can be modified to sync folders.
 
