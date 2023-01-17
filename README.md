@@ -36,8 +36,9 @@
 
 
 ## Stats github
-
-<a href="https://github.com/Malachite01">
-  <img src="https://github-readme-stats.vercel.app/api?username=Malachite01&theme=radical&show_icons=true" alt="Mathieu ANTUNES's GitHub Stats" />
-</a>
+<p align="center">
+  <a href="https://github.com/Malachite01">
+    <img src="https://github-readme-stats.vercel.app/api?username=Malachite01&theme=radical&show_icons=true" alt="Mathieu ANTUNES's GitHub Stats" />
+  </a>
+</p>
 
