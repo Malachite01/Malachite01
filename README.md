@@ -40,5 +40,8 @@
   <a href="https://github.com/Malachite01">
     <img src="https://github-readme-stats.vercel.app/api?username=Malachite01&theme=radical&show_icons=true" alt="Mathieu ANTUNES GitHub Stats" />
   </a>
+  <a href="https://github.com/Malachite01">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malachite01&theme=radical&show_icons=true&hide=ada" alt="Mathieu ANTUNES GitHub Stats" />
+  </a>
 </p>
 
