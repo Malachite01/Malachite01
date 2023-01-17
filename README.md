@@ -9,7 +9,7 @@
 
 ## My works
 
-- 🪙 [A token economy application](https://github.com/Malachite01/SAE-Trisomie21-HG) made for the association "[trisomie 21 Haute-Garonne](http://trisomie21-haute-garonne.org/)" to make a token economy application for autistic and trisomic children.
+- 🪙 [A token economy web application](https://github.com/Malachite01/SAE-Trisomie21-HG) made for the association "[trisomie 21 Haute-Garonne](http://trisomie21-haute-garonne.org/)" to make a token economy application for autistic and trisomic children.
 - 📡 [A ftp-proxy](https://github.com/Malachite01/proxy-ftp) made in C. It is compatible with commands such as pwd, cd, ls, get, put, ...
 - 📲 [An electron/node.js application](https://github.com/Malachite01/appTransfertMobile)(⚠️WIP) made to automatically transfer all pictures from android to a computer.
 - 🐠 [A small tool](https://github.com/Malachite01/subnauticaSaves) to sync the saves of the game subnautica. This tool can be modified to sync folders.
