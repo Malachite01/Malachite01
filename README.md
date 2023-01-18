@@ -13,7 +13,7 @@
 
 - 🪙 [A token economy web application](https://github.com/Malachite01/SAE-Trisomie21-HG) made for the association "[trisomie 21 Haute-Garonne](http://trisomie21-haute-garonne.org/)" to help autistic and trisomic children ([definition of token economy](https://www.dictionary.com/browse/token-economy)).
 
-- 📡 [A ftp-proxy](https://github.com/Malachite01/proxy-ftp) made in C. It is compatible with commands such as pwd, cd, ls, get, put, ...
+- 📡 [A ftp-proxy](https://github.com/Malachite01/proxy-ftp) made in C. It is compatible with commands such as pwd, cd, ls, get, ...
 
 - 📲 [An electron/node.js application](https://github.com/Malachite01/appTransfertMobile) **(⚠️WIP)** made to automatically transfer all pictures from an android phone to a computer. It's goal is to simplify the process of making regular local saves.  
 
