@@ -9,13 +9,13 @@
 
 ## My works
 
-- 🎮 An adventure video game **(⚠️WIP)** developed in Unity in C#. This project is a big one for me, and is really time consuming I'm currently working on it but i'll keep the repository private.
-
-- 🪙 [A token economy web application](https://github.com/Malachite01/SAE-Trisomie21-HG) **(⚠️WIP)** made for the association "[trisomie 21 Haute-Garonne](http://trisomie21-haute-garonne.org/)" to help autistic and trisomic children (definition of token economy [here](https://www.dictionary.com/browse/token-economy)).
+- 📲 [An electron/node.js application](https://github.com/Malachite01/appTransfertMobile) made to automatically transfer all pictures from an android phone to a computer. It's goal is to simplify the process of making regular local saves.  
 
 - 📡 [A ftp-proxy](https://github.com/Malachite01/proxy-ftp) made in C. It is compatible with commands such as pwd, cd, ls, get, ...
 
-- 📲 [An electron/node.js application](https://github.com/Malachite01/appTransfertMobile) made to automatically transfer all pictures from an android phone to a computer. It's goal is to simplify the process of making regular local saves.  
+- 🎮 An adventure video game **(⚠️WIP)** developed in Unity in C#. This project is a big one for me, and is really time consuming I'm currently working on it but i'll keep the repository private.
+
+- 🪙 [A token economy web application](https://github.com/Malachite01/SAE-Trisomie21-HG) **(⚠️WIP)** made for the association "[trisomie 21 Haute-Garonne](http://trisomie21-haute-garonne.org/)" to help autistic and trisomic children (definition of token economy [here](https://www.dictionary.com/browse/token-economy)).
 
 - 💻 [A web-documentary](https://webdoc-wejustwork.netlify.app/) about "crunch" in the video game industry, where I developed the website in its entirety. There is also a small video-game at the bottom of the website, that one of my team mates did, and where I did a lot of the assets.
 
