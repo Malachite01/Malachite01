@@ -3,7 +3,7 @@
 - 🌍 I'm currently based in Toulouse
 - 🚀 I'm a student of [Bachelor in Computer Science specialized in cyber security](https://www.univ-tlse3.fr/but-specialite-informatique) at Université III Paul Sabatier
 - ✉️ You can contact me at [mathieu.antunes31@gmail.com](mailto:mathieu.antunes31@gmail.com) or [here](https://www.linkedin.com/in/ANTUNESMathieu/)
-- 👨‍💻 I'm actually working on a video game, and an app to transfer files from android to windows in electron/node.js
+- 👨‍💻 I'm actually working on a video game
 
 
 
