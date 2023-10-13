@@ -17,6 +17,8 @@
 
 - 🪙 [A token economy web application](https://github.com/Malachite01/SAE-Trisomie21-HG) made for the association "[trisomie 21 Haute-Garonne](http://trisomie21-haute-garonne.org/)" to help autistic and trisomic children (definition of token economy [here](https://www.dictionary.com/browse/token-economy)).
 
+- 🎵 [A Deezer to MP3](https://github.com/Malachite01/deezer_to_mp3) python script, to make local backup of your deezer playlist.
+
 - 👨‍💻 [A REST API](https://github.com/Malachite01/apiRestBlog) that treat the cases GET, POST, PUT, DELETE, and uses a jwt_token for user authentication.
 
 - 💻 [A web-documentary](https://webdoc-wejustwork.netlify.app/) about "crunch" in the video game industry, where I developed the website in its entirety. There is also a small video-game at the bottom of the website, that one of my team mates did, and where I did a lot of the assets.
