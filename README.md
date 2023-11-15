@@ -10,7 +10,7 @@
 
 ## My works
 
-- 📲 [An electron/node.js application](https://github.com/Malachite01/appTransfertMobile) made to automatically transfer all pictures from an android phone to a computer. It's goal is to simplify the process of making regular local saves.
+- 📲 [An electron/node.js application](https://github.com/Malachite01/appTransfertMobile) made to automatically transfer all pictures from an android phone to a computer. Its goal is to simplify the process of making regular local saves.
   
 - 🎵 [A Deezer to MP3](https://github.com/Malachite01/deezer_to_mp3) python script, to make local backup of your deezer playlist.
 
