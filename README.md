@@ -14,6 +14,8 @@
   
 - 🎵 [A Deezer to MP3](https://github.com/Malachite01/deezer_to_mp3) python script, to make local backup of your deezer playlist.
 
+- 🎼 [A polyrhythm vizualizer](https://github.com/Malachite01/polyrhythm_visualizer) developed with a mathematical approach in mind, in Unity C#. 
+
 - 📡 [A ftp-proxy](https://github.com/Malachite01/proxy-ftp) made in C. It is compatible with commands such as pwd, cd, ls, get, ...
 
 - 🎮 An adventure video game **(⚠️WIP)** developed in Unity in C#. This project is a big one for me, and is really time consuming I'm currently working on it but i'll keep the repository private.
