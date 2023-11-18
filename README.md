@@ -20,9 +20,9 @@
 
 - 🎮 An adventure video game **(⚠️WIP)** developed in Unity in C#. This project is a big one for me, and is really time consuming I'm currently working on it but i'll keep the repository private.
 
-- 🪙 [A token economy web application](https://github.com/Malachite01/SAE-Trisomie21-HG) made for the association "[trisomie 21 Haute-Garonne](http://trisomie21-haute-garonne.org/)" to help autistic and trisomic children (definition of token economy [here](https://www.dictionary.com/browse/token-economy)).
-
 - 🖼️ [An image processing project](https://github.com/Malachite01/Image_processing_project/), to denoise, or add noise, with different types of processing, on grayscale images.
+
+- 🪙 [A token economy web application](https://github.com/Malachite01/SAE-Trisomie21-HG) made for the association "[trisomie 21 Haute-Garonne](http://trisomie21-haute-garonne.org/)" to help autistic and trisomic children (definition of token economy [here](https://www.dictionary.com/browse/token-economy)).
 
 - 👨‍💻 [A REST API](https://github.com/Malachite01/apiRestBlog) that treat the cases GET, POST, PUT, DELETE, and uses a jwt_token for user authentication.
 
