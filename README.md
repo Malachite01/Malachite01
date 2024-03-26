@@ -3,6 +3,7 @@
 - 🌍 I'm currently based in Toulouse
 - 🚀 I'm a student of [Bachelor in Computer Science (BUT) specialized in cyber security (Three-year university degree)](https://www.univ-tlse3.fr/decouvrir-nos-diplomes/but-informatique-parcours-deploiement-dapplications-communicantes-et-securisees-toulouse) at Université III Paul Sabatier
 - 👨‍🎓 My highest diploma is a [Two-year university degree in technology and computer science (DUT) (specialized in cyber security)](https://www.onisep.fr/ressources/univers-formation/formations/Post-bac/but-informatique-parcours-deploiement-d-applications-communicantes-et-securisees)
+- 💼 My portfolio is available [here](https://malachite01.github.io/portfolio/)
 - ✉️ You can contact me at [mathieu.antunes31@gmail.com](mailto:mathieu.antunes31@gmail.com) or [here](https://www.linkedin.com/in/ANTUNESMathieu/)
 - 👨‍💻 I'm actually working on a video game
 
