@@ -23,6 +23,8 @@
 
 - 🖼️ [An image processing project](https://github.com/Malachite01/Image_processing_project/), to denoise, or add noise, with different types of processing, on grayscale images.
 
+- 🕹️ [A Minesweeper web application](https://malachite01.github.io/prog_web/) first project at INSA Toulouse. The goal was to develop as a puzzle game in vanilla JavaScript, HTML, and CSS.
+
 - 🪙 [A token economy web application](https://github.com/Malachite01/SAE-Trisomie21-HG) made for the association "[trisomie 21 Haute-Garonne](http://trisomie21-haute-garonne.org/)" to help autistic and trisomic children (definition of token economy [here](https://www.dictionary.com/browse/token-economy)).
 
 - 👨‍💻 [A REST API](https://github.com/Malachite01/apiRestBlog) that treat the cases GET, POST, PUT, DELETE, and uses a jwt_token for user authentication.
