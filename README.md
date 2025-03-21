@@ -21,7 +21,7 @@
 
 - 🎮 An adventure video game **(⚠️WIP)** developed in Unity in C#. This project is a big one for me, and is really time consuming I'm currently working on it but i'll keep the repository private.
 
-- 📨 [A simple client-server communication project](https://github.com/Malachite01/tsock-Insa) A network programming project implementing a basic client-server model using TCP and UDP. It includes socket creation, message construction, and error handling, allowing for message transmission with customizable length and count.
+- 📨 [A simple client-server communication project](https://github.com/Malachite01/tsock-Insa) made in C, implementing basic client-server model using TCP and UDP(to show data loss). It includes socket creation, message construction, error handling.
 
 - 🖼️ [An image processing project](https://github.com/Malachite01/Image_processing_project/), to denoise, or add noise, with different types of processing, on grayscale images.
 
