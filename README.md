@@ -1,7 +1,7 @@
 ## Hi my name is Mathieu Antunes 👋
 
 - 🌍 Currently based in Toulouse
-- 🚀 I am pursuing studies at [INSA Toulouse in Modeling, Computer Science and Communication](https://www.insa-toulouse.fr/pre-orientation/) with the goal of becoming a Computer and Networks Engineer at INSA Toulouse.
+- 🚀 I am pursuing studies at [the National Institute of Applied Sciences (INSA) Toulouse in Modeling, Computer Science and Communication](https://www.insa-toulouse.fr/pre-orientation/) with the goal of becoming a Computer and Networks Engineer at INSA Toulouse.
 - 👨‍🎓 My highest diploma is a [Three-Year University Degree in Technology and Computer Science (BUT, equivalent to a Bachelor's degree), specialized in Cybersecurity.](https://www.onisep.fr/ressources/univers-formation/formations/Post-bac/but-informatique-parcours-deploiement-d-applications-communicantes-et-securisees)
 - 💼 My portfolio is available [here](https://malachite01.github.io/portfolio/)
 - ✉️ You can contact me at [mathieu.antunes31@gmail.com](mailto:mathieu.antunes31@gmail.com) or [here](https://www.linkedin.com/in/ANTUNESMathieu/)
