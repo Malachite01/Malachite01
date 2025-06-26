@@ -23,6 +23,8 @@
 
 - 📨 [A simple client-server communication project](https://github.com/Malachite01/tsock-Insa) made in C, implementing basic client-server model using TCP and UDP(to show data loss). It includes socket creation, message construction, error handling.
 
+- 📶 [A simplified TCP implementation](https://github.com/Malachite01/mic-tcp-insa) in C, made to simulate core TCP mechanisms such as sequence numbers, acknowledgments, and connection management. It also handles packet loss.
+
 - 🖼️ [An image processing project](https://github.com/Malachite01/Image_processing_project/), to denoise, or add noise, with different types of processing, on grayscale images.
 
 - 🕹️ [A Minesweeper web application](https://malachite01.github.io/prog_web/) first project at INSA Toulouse. The goal was to develop a puzzle game in vanilla JavaScript, HTML, and CSS.
