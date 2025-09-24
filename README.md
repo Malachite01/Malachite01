@@ -19,13 +19,15 @@
 
 - 📡 [A ftp-proxy](https://github.com/Malachite01/proxy-ftp) made in C. It is compatible with commands such as pwd, cd, ls, get, ...
 
-- 🎮 An adventure video game **(⚠️WIP)** developed in Unity in C#. This project is a big one for me, and is really time consuming I'm currently working on it but i'll keep the repository private.
-
 - 📨 [A simple client-server communication project](https://github.com/Malachite01/tsock-Insa) made in C, implementing basic client-server model using TCP and UDP(to show data loss). It includes socket creation, message construction, error handling.
 
 - 📶 [A simplified TCP implementation](https://github.com/Malachite01/mic-tcp-insa) in C, made to simulate core TCP mechanisms such as sequence numbers, acknowledgments, and connection management. It also handles packet loss.
 
+- 📸 [Tahin.raw Portfolio](https://tahinraw.fr), a photography portfolio fully developed in ReactJS, HTML, and CSS, focused on creating a responsive and performant website for both desktop and mobile users. Implemented SEO optimization and meta tags, and configured custom DNS to support a personalized domain.
+
 - 🖼️ [An image processing project](https://github.com/Malachite01/Image_processing_project/), to denoise, or add noise, with different types of processing, on grayscale images.
+
+- 🎮 An adventure video game **(⚠️WIP)** developed in Unity in C#. This project is a big one for me, and is really time consuming I'm currently working on it but i'll keep the repository private.
 
 - 🕹️ [A Minesweeper web application](https://malachite01.github.io/prog_web/) first project at INSA Toulouse. The goal was to develop a puzzle game in vanilla JavaScript, HTML, and CSS.
 
