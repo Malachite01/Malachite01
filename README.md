@@ -25,7 +25,11 @@
 
 - 🎮 An adventure video game **(⚠️WIP)** developed in Unity in C#. This project is a big one for me, and is really time consuming I'm currently working on it but i'll keep the repository private.
 
+- [A little JS native game](https://github.com/Malachite01/prog_web_v2) project at INSA Toulouse. The goal was to develop a keyboard controlled game.
+
 - 🕹️ [A Minesweeper web application](https://malachite01.github.io/prog_web/) first project at INSA Toulouse. The goal was to develop a puzzle game in vanilla JavaScript, HTML, and CSS.
+
+- 🎧 [A Tool for fixing music libraries for the iPod](https://github.com/Malachite01/ipod_rockbox_flac_optimizer) can fix cover art and FLAC bitrate and sample rate.
 
 - 🎵 [A Deezer to MP3](https://github.com/Malachite01/deezer_to_mp3) python script, to make local backup of your deezer playlist.
 
