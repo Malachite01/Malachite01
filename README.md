@@ -39,7 +39,7 @@
 
 - 👨‍💻 [A REST API](https://github.com/Malachite01/apiRestBlog) (Archived) that treat the cases GET, POST, PUT, DELETE, and uses a jwt_token for user authentication.
 
-- 💻 A web-documentary ([available here](https://webdoc-wejustwork.netlify.app/)) about "crunch" in the video game industry, where I did a lot of the 3d environment assets.
+- 💻 A web-documentary website ([available here](https://webdoc-wejustwork.netlify.app/)) about "crunch" in the video game industry, where I did a lot of the 3d environment assets (game available [here](https://wejustwork-webdoc.netlify.app/).
 
 - 🧮 [A sudoku solver](https://github.com/Malachite01/sudokuSolver) coded in ADA. It was one of my first complicated study project that I did during my first year of Bachelor.  
 
