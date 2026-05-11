@@ -25,21 +25,21 @@
 
 - 🎮 An adventure video game **(⚠️WIP)** developed in Unity in C#. This project is a big one for me, and is really time consuming I'm currently working on it but i'll keep the repository private.
 
+- 🎧 [A Tool to fix music libraries for the iPod](https://github.com/Malachite01/ipod_rockbox_flac_optimizer) can fix cover art and FLAC bitrate and sample rate.
+
 - 🕹️ [A little JS native game](https://github.com/Malachite01/prog_web_v2) project at INSA Toulouse. The goal was to develop a keyboard controlled game.
 
 - 🕹️ [A Minesweeper web application](https://malachite01.github.io/prog_web/) first project at INSA Toulouse. The goal was to develop a puzzle game in vanilla JavaScript, HTML, and CSS.
 
-- 🎧 [A Tool to fix music libraries for the iPod](https://github.com/Malachite01/ipod_rockbox_flac_optimizer) can fix cover art and FLAC bitrate and sample rate.
-
 - 🎵 [A Deezer to MP3](https://github.com/Malachite01/deezer_to_mp3) (Archived) python script, to make local backup of your deezer playlist.
 
-- 🎼 [A polyrhythm vizualizer](https://github.com/Malachite01/polyrhythm_visualizer) developed with a mathematical approach in mind, in Unity C#. 
+- 🎼 [A polyrhythm vizualizer](https://github.com/Malachite01/polyrhythm_visualizer) developed in Unity C#. 
 
-- 🪙 [A token economy web application](https://github.com/Malachite01/SAE-Trisomie21-HG) made for the association "[trisomie 21 Haute-Garonne](http://trisomie21-haute-garonne.org/)" to help autistic and trisomic children (definition of token economy [here](https://www.dictionary.com/browse/token-economy)).
+- 🪙 [A token economy web application](https://github.com/Malachite01/SAE-Trisomie21-HG) (Archived) made for the association "[trisomie 21 Haute-Garonne](http://trisomie21-haute-garonne.org/)" to help autistic and trisomic children (definition of token economy [here](https://www.dictionary.com/browse/token-economy)).
 
-- 👨‍💻 [A REST API](https://github.com/Malachite01/apiRestBlog) that treat the cases GET, POST, PUT, DELETE, and uses a jwt_token for user authentication.
+- 👨‍💻 [A REST API](https://github.com/Malachite01/apiRestBlog) (Archived) that treat the cases GET, POST, PUT, DELETE, and uses a jwt_token for user authentication.
 
-- 💻 [A web-documentary](https://github.com/Malachite01/crunch_webdoc/) ([available here](https://webdoc-wejustwork.netlify.app/)) about "crunch" in the video game industry, where I developed the website in its entirety. There is also a small video-game at the bottom of the website, that one of my team mates did, and where I did a lot of the assets.
+- 💻 A web-documentary ([available here](https://webdoc-wejustwork.netlify.app/)) about "crunch" in the video game industry, where I did a lot of the 3d environment assets.
 
 - 🧮 [A sudoku solver](https://github.com/Malachite01/sudokuSolver) coded in ADA. It was one of my first complicated study project that I did during my first year of Bachelor.  
 
